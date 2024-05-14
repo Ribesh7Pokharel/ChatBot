@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ChatBot</string>
+    <string name="username_hint">Enter your username</string>
+    <string name="login_button_text">Login</string>
+    <string name="send_button_text">Send</string>
+    <string name="message_hint">Type a message</string>
+</resources>
